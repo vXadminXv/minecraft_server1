@@ -1,0 +1,17 @@
+[00:35:49] [Server thread/INFO]: vXadminXv[/127.0.0.1:61740] logged in with entity id 144424 at (-488.0428716432413, 70.0, -175.81371947641495)
+[00:35:49] [Server thread/INFO]: vXadminXv joined the game
+[00:36:14] [Server thread/INFO]: vXadminXv lost connection: Disconnected
+[00:36:14] [Server thread/INFO]: vXadminXv left the game
+[00:36:20] [Server thread/INFO]: Stopping the server
+[00:36:20] [Server thread/INFO]: Stopping server
+[00:36:20] [Server thread/INFO]: Saving players
+[00:36:20] [Server thread/INFO]: Saving worlds
+[00:36:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
